@@ -1,0 +1,5 @@
+risk_tier,risk_tier_label,sort_order
+1,Tier 1 - Low Risk,1
+2,Tier 2 - Moderate Risk,2
+3,Tier 3 - Elevated Risk,3
+4,Tier 4 - High Risk / Watch List,4

@@ -1,0 +1,6 @@
+dpd_bucket,sort_order,is_delinquent
+Current,0,0
+1-29 Days,1,1
+30-59 Days,2,1
+60-89 Days,3,1
+90+ Days,4,1

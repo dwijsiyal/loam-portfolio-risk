@@ -1,0 +1,381 @@
+borrower_id,borrower_name,region,sector,years_in_operation,operation_size_acres,herd_size_head,relationship_start_date,primary_loan_officer
+BOR-1001,Radke Harvest Moon Grain Farms Ltd.,Alberta,Grain & Oilseed,19,1715.0,,2015-07-01,R. Yaremko
+BOR-1002,Voss Big Sky Family Farm,Alberta,Mixed Farming,11,2842.0,213.0,2016-07-01,J. Halvorsen
+BOR-1003,Dueck Wheatland Family Farm,Manitoba,Mixed Farming,22,2232.0,185.0,2018-07-01,D. Sorensen
+BOR-1004,Voss Qu'Appelle Valley Grain Co.,Saskatchewan,Grain & Oilseed,11,2376.0,,2015-07-01,T. Braun
+BOR-1005,Petrov Qu'Appelle Valley Grain Co.,Saskatchewan,Grain & Oilseed,25,2058.0,,2023-07-01,T. Braun
+BOR-1006,Friesen Prairie Ranch Ltd.,Alberta,Livestock,36,,67.0,2016-07-01,T. Braun
+BOR-1007,Janzen Silver Birch Livestock Co.,Alberta,Livestock,14,,212.0,2025-07-01,J. Halvorsen
+BOR-1008,Petrov Rolling Hills Grain Co.,Saskatchewan,Grain & Oilseed,14,1425.0,,2012-07-01,K. Lund
+BOR-1009,Dueck Qu'Appelle Valley Farms Ltd.,Saskatchewan,Grain & Oilseed,14,2295.0,,2019-07-01,T. Braun
+BOR-1010,Radke Elk Valley Dairy Farm Ltd.,Saskatchewan,Dairy,7,,303.0,2023-07-01,D. Sorensen
+BOR-1011,O'Neil Qu'Appelle Valley AgriBusiness Ltd.,Manitoba,Mixed Farming,16,1397.0,65.0,2019-07-01,C. Friesen
+BOR-1012,Anholt Sunrise AgriBusiness Ltd.,Manitoba,Mixed Farming,20,1491.0,267.0,2023-07-01,R. Yaremko
+BOR-1013,Klassen Northern Grain Farms Ltd.,Saskatchewan,Grain & Oilseed,12,1351.0,,2018-07-01,K. Lund
+BOR-1014,Anholt Sunrise Cattle Co.,Manitoba,Livestock,27,,306.0,2015-07-01,T. Braun
+BOR-1015,Kristoff Big Sky Farms Ltd.,Saskatchewan,Grain & Oilseed,17,1905.0,,2019-07-01,S. Kowalski
+BOR-1016,Novikov Meadowbrook Grain Co.,Alberta,Grain & Oilseed,41,1255.0,,2021-07-01,M. Reimer
+BOR-1017,Braun Harvest Moon Grain Co.,Alberta,Grain & Oilseed,10,2174.0,,2017-07-01,D. Sorensen
+BOR-1018,O'Neil Silver Birch Grain Co.,Saskatchewan,Grain & Oilseed,8,1908.0,,2025-07-01,P. Anholt
+BOR-1019,Kessler Cypress Hills Family Farm,Saskatchewan,Mixed Farming,22,1935.0,89.0,2020-07-01,J. Halvorsen
+BOR-1020,Enns Qu'Appelle Valley Cattle Co.,Saskatchewan,Livestock,35,,186.0,2011-07-01,P. Anholt
+BOR-1021,Schmidt Northern Grain Farms Ltd.,Saskatchewan,Grain & Oilseed,4,983.0,,2023-07-01,T. Braun
+BOR-1022,Fischer Harvest Moon Farms Ltd.,Alberta,Mixed Farming,14,2369.0,218.0,2024-07-01,T. Braun
+BOR-1023,Enns Northern Dairy Ltd.,Alberta,Dairy,20,,635.0,2023-07-01,P. Anholt
+BOR-1024,Wiebe Cypress Hills Grain Farms Ltd.,Manitoba,Grain & Oilseed,12,1566.0,,2020-07-01,A. Dubois
+BOR-1025,Dubois Cypress Hills Farms Ltd.,Saskatchewan,Grain & Oilseed,7,694.0,,2019-07-01,C. Friesen
+BOR-1026,Wiebe Bluestem Ranch Ltd.,Saskatchewan,Livestock,40,,373.0,2012-07-01,M. Reimer
+BOR-1027,Kristoff Prairie Farms Ltd.,Saskatchewan,Grain & Oilseed,20,2283.0,,2025-07-01,C. Friesen
+BOR-1028,Iverson Whitecap AgriBusiness Ltd.,Alberta,Mixed Farming,21,5039.0,301.0,2012-07-01,A. Dubois
+BOR-1029,Thorsen Stonebridge Farms Ltd.,Manitoba,Grain & Oilseed,28,801.0,,2024-07-01,R. Yaremko
+BOR-1030,Janzen Harvest Moon Grain Co.,Alberta,Grain & Oilseed,19,1493.0,,2013-07-01,T. Braun
+BOR-1031,Novak Rolling Hills Livestock Co.,Saskatchewan,Livestock,7,,194.0,2024-07-01,M. Reimer
+BOR-1032,Klassen Harvest Moon Family Farm,Manitoba,Mixed Farming,32,2242.0,198.0,2011-07-01,C. Friesen
+BOR-1033,Anholt Qu'Appelle Valley Grain Co.,Alberta,Grain & Oilseed,19,2658.0,,2013-07-01,R. Yaremko
+BOR-1034,Kowalski Twin Creek AgriBusiness Ltd.,Saskatchewan,Mixed Farming,36,864.0,101.0,2011-07-01,P. Anholt
+BOR-1035,Lund Sunrise Cattle Co.,Alberta,Livestock,19,,564.0,2018-07-01,M. Reimer
+BOR-1036,Harder Sunrise Grain Co.,Saskatchewan,Grain & Oilseed,27,3132.0,,2022-07-01,K. Lund
+BOR-1037,Kristoff Silver Birch Grain Farms Ltd.,Saskatchewan,Grain & Oilseed,22,835.0,,2023-07-01,M. Reimer
+BOR-1038,Toews Elk Valley Family Farm,Manitoba,Mixed Farming,18,2789.0,770.0,2025-07-01,P. Anholt
+BOR-1039,Kristoff Prairie Dairy Farm Ltd.,Alberta,Dairy,6,,73.0,2023-07-01,J. Halvorsen
+BOR-1040,Braun Coulee Farms Ltd.,Manitoba,Grain & Oilseed,18,2590.0,,2014-07-01,C. Friesen
+BOR-1041,Klassen Rimrock Farms Ltd.,Alberta,Grain & Oilseed,12,1950.0,,2025-07-01,J. Halvorsen
+BOR-1042,Loewen Twin Creek Grain Farms Ltd.,Saskatchewan,Grain & Oilseed,5,248.0,,2021-07-01,A. Dubois
+BOR-1043,Enns Qu'Appelle Valley AgriBusiness Ltd.,Manitoba,Mixed Farming,17,1631.0,253.0,2013-07-01,T. Braun
+BOR-1044,Novak Northern Farms Ltd.,Saskatchewan,Grain & Oilseed,40,846.0,,2018-07-01,J. Halvorsen
+BOR-1045,Voss Northern Farms Ltd.,Alberta,Grain & Oilseed,9,2228.0,,2024-07-01,C. Friesen
+BOR-1046,Novikov Rolling Hills Grain Co.,Manitoba,Grain & Oilseed,30,2172.0,,2019-07-01,D. Sorensen
+BOR-1047,Neufeld Northern Farms Ltd.,Alberta,Grain & Oilseed,30,2111.0,,2021-07-01,D. Sorensen
+BOR-1048,Thorsen Elk Valley Ranch Ltd.,Saskatchewan,Livestock,14,,442.0,2019-07-01,T. Braun
+BOR-1049,Anholt Cypress Hills Dairy Ltd.,Alberta,Dairy,15,,108.0,2021-07-01,R. Yaremko
+BOR-1050,Voss Northern AgriBusiness Ltd.,Alberta,Mixed Farming,17,2231.0,351.0,2021-07-01,P. Anholt
+BOR-1051,Lund Twin Creek Farms Ltd.,Saskatchewan,Grain & Oilseed,5,362.0,,2024-07-01,T. Braun
+BOR-1052,Voss Big Sky Grain Co.,Alberta,Grain & Oilseed,13,1204.0,,2020-07-01,P. Anholt
+BOR-1053,Kessler Prairie Dairy Ltd.,Saskatchewan,Dairy,21,,152.0,2022-07-01,D. Sorensen
+BOR-1054,Martens Cypress Hills Farms Ltd.,Manitoba,Mixed Farming,35,1876.0,551.0,2021-07-01,J. Halvorsen
+BOR-1055,Whitfield Meadowbrook Grain Farms Ltd.,Manitoba,Grain & Oilseed,13,231.0,,2022-07-01,A. Dubois
+BOR-1056,Petrov Coulee Dairy Ltd.,Alberta,Dairy,16,,359.0,2015-07-01,S. Kowalski
+BOR-1057,Baumann Rolling Hills AgriBusiness Ltd.,Alberta,Mixed Farming,12,950.0,292.0,2021-07-01,S. Kowalski
+BOR-1058,O'Neil Prairie Grain Co.,Saskatchewan,Grain & Oilseed,24,605.0,,2012-07-01,T. Braun
+BOR-1059,Schmidt Whitecap Family Farm,Alberta,Mixed Farming,33,1439.0,361.0,2016-07-01,D. Sorensen
+BOR-1060,Thorsen Long Grass Dairy Farm Ltd.,Alberta,Dairy,20,,69.0,2011-07-01,R. Yaremko
+BOR-1061,Janzen Bluestem Cattle Co.,Manitoba,Livestock,23,,159.0,2016-07-01,J. Halvorsen
+BOR-1062,Halvorsen Coulee Farms Ltd.,Manitoba,Grain & Oilseed,10,618.0,,2025-07-01,J. Halvorsen
+BOR-1063,Peters Rimrock Grain Farms Ltd.,Manitoba,Grain & Oilseed,36,2034.0,,2019-07-01,J. Halvorsen
+BOR-1064,Marchand Cypress Hills Farms Ltd.,Saskatchewan,Mixed Farming,3,6091.0,53.0,2025-07-01,M. Reimer
+BOR-1065,O'Neil Cypress Hills Grain Co.,Saskatchewan,Grain & Oilseed,7,1922.0,,2022-07-01,D. Sorensen
+BOR-1066,Peters Qu'Appelle Valley AgriBusiness Ltd.,Alberta,Mixed Farming,19,4527.0,578.0,2017-07-01,S. Kowalski
+BOR-1067,Larsen Rimrock Dairy Farm Ltd.,Alberta,Dairy,15,,130.0,2011-07-01,P. Anholt
+BOR-1068,Giesbrecht Rimrock Grain Farms Ltd.,Saskatchewan,Grain & Oilseed,3,2038.0,,2024-07-01,C. Friesen
+BOR-1069,Petrov Prairie Farms Ltd.,Saskatchewan,Mixed Farming,22,2752.0,474.0,2017-07-01,P. Anholt
+BOR-1070,Braun Northern Livestock Co.,Saskatchewan,Livestock,14,,205.0,2016-07-01,D. Sorensen
+BOR-1071,Neufeld Red River Grain Farms Ltd.,Saskatchewan,Grain & Oilseed,10,1486.0,,2018-07-01,S. Kowalski
+BOR-1072,Radke Wheatland Dairy Ltd.,Saskatchewan,Dairy,16,,237.0,2021-07-01,T. Braun
+BOR-1073,Peters Prairie Ranch Ltd.,Alberta,Livestock,25,,226.0,2018-07-01,C. Friesen
+BOR-1074,Kessler Meadowbrook Dairy Ltd.,Alberta,Dairy,26,,110.0,2021-07-01,M. Reimer
+BOR-1075,Novak Golden Field Farms Ltd.,Saskatchewan,Mixed Farming,26,274.0,460.0,2023-07-01,M. Reimer
+BOR-1076,Kristoff Elk Valley Family Farm,Saskatchewan,Mixed Farming,14,1745.0,119.0,2023-07-01,D. Sorensen
+BOR-1077,Martens Red River Farms Ltd.,Manitoba,Grain & Oilseed,22,2643.0,,2018-07-01,T. Braun
+BOR-1078,Friesen Twin Creek Grain Co.,Saskatchewan,Grain & Oilseed,39,3613.0,,2015-07-01,M. Reimer
+BOR-1079,Anholt Golden Field Dairy Farm Ltd.,Saskatchewan,Dairy,18,,228.0,2022-07-01,J. Halvorsen
+BOR-1080,Kowalski Rimrock Family Farm,Saskatchewan,Mixed Farming,9,1055.0,323.0,2021-07-01,D. Sorensen
+BOR-1081,Enns Harvest Moon Farms Ltd.,Alberta,Grain & Oilseed,18,2125.0,,2023-07-01,R. Yaremko
+BOR-1082,Friesen Long Grass Farms Ltd.,Alberta,Mixed Farming,20,1189.0,173.0,2019-07-01,P. Anholt
+BOR-1083,Giesbrecht Bluestem Farms Ltd.,Alberta,Grain & Oilseed,14,2093.0,,2013-07-01,C. Friesen
+BOR-1084,Whitfield Coulee Family Farm,Alberta,Mixed Farming,32,2188.0,109.0,2018-07-01,K. Lund
+BOR-1085,Peters Rolling Hills Farms Ltd.,Saskatchewan,Grain & Oilseed,15,4340.0,,2011-07-01,S. Kowalski
+BOR-1086,Novikov Red River Livestock Co.,Saskatchewan,Livestock,29,,174.0,2019-07-01,S. Kowalski
+BOR-1087,Iverson Silver Birch Farms Ltd.,Saskatchewan,Grain & Oilseed,10,1824.0,,2021-07-01,P. Anholt
+BOR-1088,Halvorsen Sunrise Livestock Co.,Saskatchewan,Livestock,21,,362.0,2022-07-01,K. Lund
+BOR-1089,Lund Silver Birch Farms Ltd.,Saskatchewan,Grain & Oilseed,18,801.0,,2024-07-01,D. Sorensen
+BOR-1090,Larsen Red River Grain Co.,Saskatchewan,Grain & Oilseed,6,1206.0,,2025-07-01,J. Halvorsen
+BOR-1091,O'Neil Big Sky Cattle Co.,Manitoba,Livestock,23,,255.0,2013-07-01,T. Braun
+BOR-1092,Petrov Rimrock Farms Ltd.,Manitoba,Grain & Oilseed,19,1051.0,,2024-07-01,J. Halvorsen
+BOR-1093,Radke Red River AgriBusiness Ltd.,Alberta,Mixed Farming,10,405.0,133.0,2018-07-01,A. Dubois
+BOR-1094,Yaremko Big Sky Livestock Co.,Alberta,Livestock,16,,240.0,2017-07-01,J. Halvorsen
+BOR-1095,Lund Long Grass Ranch Ltd.,Saskatchewan,Livestock,17,,272.0,2020-07-01,M. Reimer
+BOR-1096,Kristoff Big Sky Grain Co.,Alberta,Grain & Oilseed,23,769.0,,2023-07-01,D. Sorensen
+BOR-1097,Kessler Cypress Hills AgriBusiness Ltd.,Alberta,Mixed Farming,38,1619.0,90.0,2018-07-01,T. Braun
+BOR-1098,Radke Twin Creek Farms Ltd.,Alberta,Grain & Oilseed,20,874.0,,2016-07-01,P. Anholt
+BOR-1099,Yaremko Elk Valley Cattle Co.,Alberta,Livestock,7,,299.0,2025-07-01,K. Lund
+BOR-1100,Schmidt Long Grass Family Farm,Manitoba,Mixed Farming,14,3825.0,489.0,2018-07-01,C. Friesen
+BOR-1101,Novikov Bluestem Family Farm,Alberta,Mixed Farming,17,2497.0,293.0,2015-07-01,T. Braun
+BOR-1102,Fischer Twin Creek Farms Ltd.,Alberta,Grain & Oilseed,6,1789.0,,2020-07-01,K. Lund
+BOR-1103,Loewen Stonebridge Dairy Ltd.,Saskatchewan,Dairy,24,,190.0,2022-07-01,P. Anholt
+BOR-1104,O'Neil Big Sky Family Farm,Saskatchewan,Mixed Farming,13,1731.0,167.0,2018-07-01,T. Braun
+BOR-1105,Friesen Sunrise Livestock Co.,Saskatchewan,Livestock,11,,169.0,2019-07-01,S. Kowalski
+BOR-1106,Enns Meadowbrook AgriBusiness Ltd.,Alberta,Mixed Farming,53,1897.0,257.0,2015-07-01,A. Dubois
+BOR-1107,Schmidt Harvest Moon Family Farm,Saskatchewan,Mixed Farming,17,2262.0,228.0,2023-07-01,K. Lund
+BOR-1108,Dubois Stonebridge Grain Farms Ltd.,Manitoba,Grain & Oilseed,34,3746.0,,2012-07-01,D. Sorensen
+BOR-1109,Lund Rimrock Grain Farms Ltd.,Manitoba,Grain & Oilseed,7,2523.0,,2021-07-01,R. Yaremko
+BOR-1110,Novikov Prairie Dairy Ltd.,Alberta,Dairy,32,,413.0,2015-07-01,P. Anholt
+BOR-1111,Voss Cypress Hills Farms Ltd.,Saskatchewan,Grain & Oilseed,25,1019.0,,2020-07-01,S. Kowalski
+BOR-1112,Braun Wheatland Cattle Co.,Manitoba,Livestock,19,,190.0,2012-07-01,J. Halvorsen
+BOR-1113,Kowalski Rolling Hills Farms Ltd.,Saskatchewan,Grain & Oilseed,16,4375.0,,2014-07-01,J. Halvorsen
+BOR-1114,Reimer Sunrise Cattle Co.,Manitoba,Livestock,34,,249.0,2017-07-01,P. Anholt
+BOR-1115,Braun Coulee Livestock Co.,Alberta,Livestock,13,,356.0,2023-07-01,S. Kowalski
+BOR-1116,Fischer Qu'Appelle Valley Farms Ltd.,Manitoba,Grain & Oilseed,21,1853.0,,2023-07-01,T. Braun
+BOR-1117,Marchand Wheatland Grain Co.,Manitoba,Grain & Oilseed,16,883.0,,2016-07-01,S. Kowalski
+BOR-1118,Enns Stonebridge Grain Co.,Saskatchewan,Grain & Oilseed,5,1644.0,,2024-07-01,T. Braun
+BOR-1119,Reimer Big Sky Grain Farms Ltd.,Saskatchewan,Grain & Oilseed,27,2495.0,,2021-07-01,J. Halvorsen
+BOR-1120,Larsen Harvest Moon Farms Ltd.,Alberta,Grain & Oilseed,37,2657.0,,2013-07-01,D. Sorensen
+BOR-1121,Bergen Wheatland Dairy Ltd.,Saskatchewan,Dairy,8,,307.0,2025-07-01,K. Lund
+BOR-1122,Peters Big Sky Grain Co.,Saskatchewan,Grain & Oilseed,21,1543.0,,2019-07-01,A. Dubois
+BOR-1123,Yaremko Elk Valley Grain Co.,Saskatchewan,Grain & Oilseed,34,3495.0,,2024-07-01,M. Reimer
+BOR-1124,Martens Sunrise Farms Ltd.,Saskatchewan,Grain & Oilseed,24,793.0,,2012-07-01,M. Reimer
+BOR-1125,Yaremko Northern Livestock Co.,Saskatchewan,Livestock,24,,480.0,2021-07-01,R. Yaremko
+BOR-1126,Voss Coulee Dairy Ltd.,Saskatchewan,Dairy,5,,412.0,2022-07-01,S. Kowalski
+BOR-1127,Voss Bluestem Cattle Co.,Alberta,Livestock,17,,175.0,2020-07-01,D. Sorensen
+BOR-1128,Iverson Big Sky Farms Ltd.,Alberta,Mixed Farming,11,2442.0,522.0,2024-07-01,R. Yaremko
+BOR-1129,Marchand Prairie Farms Ltd.,Alberta,Grain & Oilseed,22,3334.0,,2015-07-01,A. Dubois
+BOR-1130,Lund Stonebridge Farms Ltd.,Saskatchewan,Mixed Farming,18,1919.0,186.0,2013-07-01,R. Yaremko
+BOR-1131,Janzen Harvest Moon AgriBusiness Ltd.,Manitoba,Mixed Farming,10,328.0,368.0,2024-07-01,K. Lund
+BOR-1132,Martens Northern Grain Co.,Saskatchewan,Grain & Oilseed,9,2198.0,,2024-07-01,C. Friesen
+BOR-1133,Baumann Sunrise Livestock Co.,Saskatchewan,Livestock,11,,236.0,2018-07-01,M. Reimer
+BOR-1134,Bergen Rolling Hills Grain Farms Ltd.,Alberta,Grain & Oilseed,26,2840.0,,2023-07-01,J. Halvorsen
+BOR-1135,Anholt Cypress Hills Farms Ltd.,Manitoba,Grain & Oilseed,16,2228.0,,2012-07-01,A. Dubois
+BOR-1136,Kristoff Wheatland Farms Ltd.,Manitoba,Grain & Oilseed,28,2401.0,,2020-07-01,J. Halvorsen
+BOR-1137,Friesen Big Sky Grain Farms Ltd.,Manitoba,Grain & Oilseed,14,1362.0,,2013-07-01,M. Reimer
+BOR-1138,Neufeld Wheatland Farms Ltd.,Saskatchewan,Grain & Oilseed,34,571.0,,2024-07-01,P. Anholt
+BOR-1139,Loewen Whitecap Grain Farms Ltd.,Manitoba,Grain & Oilseed,20,3815.0,,2017-07-01,P. Anholt
+BOR-1140,Lund Wheatland Grain Co.,Saskatchewan,Grain & Oilseed,33,931.0,,2017-07-01,P. Anholt
+BOR-1141,Peters Wheatland Grain Farms Ltd.,Saskatchewan,Grain & Oilseed,24,2418.0,,2011-07-01,J. Halvorsen
+BOR-1142,Petrov Twin Creek Grain Farms Ltd.,Saskatchewan,Grain & Oilseed,25,1724.0,,2022-07-01,R. Yaremko
+BOR-1143,Marchand Stonebridge Farms Ltd.,Alberta,Mixed Farming,11,3019.0,244.0,2022-07-01,M. Reimer
+BOR-1144,Kristoff Twin Creek Dairy Ltd.,Saskatchewan,Dairy,27,,367.0,2014-07-01,P. Anholt
+BOR-1145,Kristoff Big Sky Ranch Ltd.,Saskatchewan,Livestock,14,,99.0,2018-07-01,D. Sorensen
+BOR-1146,Thorsen Qu'Appelle Valley Grain Co.,Alberta,Grain & Oilseed,21,1427.0,,2025-07-01,T. Braun
+BOR-1147,Toews Whitecap Dairy Ltd.,Manitoba,Dairy,17,,253.0,2019-07-01,T. Braun
+BOR-1148,Sorensen Elk Valley Grain Co.,Manitoba,Grain & Oilseed,29,653.0,,2025-07-01,P. Anholt
+BOR-1149,Voss Elk Valley Grain Farms Ltd.,Saskatchewan,Grain & Oilseed,16,1350.0,,2014-07-01,S. Kowalski
+BOR-1150,Schmidt Twin Creek AgriBusiness Ltd.,Manitoba,Mixed Farming,11,2105.0,160.0,2017-07-01,T. Braun
+BOR-1151,Thorsen Sunrise Grain Farms Ltd.,Alberta,Grain & Oilseed,9,757.0,,2018-07-01,A. Dubois
+BOR-1152,Petrov Bluestem Livestock Co.,Saskatchewan,Livestock,4,,259.0,2025-07-01,S. Kowalski
+BOR-1153,Loewen Meadowbrook Grain Co.,Saskatchewan,Grain & Oilseed,12,1419.0,,2016-07-01,K. Lund
+BOR-1154,Martens Big Sky AgriBusiness Ltd.,Manitoba,Mixed Farming,30,311.0,331.0,2015-07-01,J. Halvorsen
+BOR-1155,Friesen Wheatland Grain Farms Ltd.,Manitoba,Grain & Oilseed,37,2786.0,,2014-07-01,P. Anholt
+BOR-1156,O'Neil Long Grass Grain Co.,Manitoba,Grain & Oilseed,24,1072.0,,2022-07-01,M. Reimer
+BOR-1157,Sorensen Wheatland Dairy Ltd.,Manitoba,Dairy,27,,186.0,2023-07-01,A. Dubois
+BOR-1158,Klassen Bluestem Farms Ltd.,Saskatchewan,Grain & Oilseed,19,1760.0,,2011-07-01,T. Braun
+BOR-1159,Enns Wheatland AgriBusiness Ltd.,Saskatchewan,Mixed Farming,30,2126.0,218.0,2025-07-01,P. Anholt
+BOR-1160,Kowalski Meadowbrook Grain Farms Ltd.,Alberta,Grain & Oilseed,10,626.0,,2021-07-01,T. Braun
+BOR-1161,Sorensen Coulee Grain Farms Ltd.,Manitoba,Grain & Oilseed,37,1675.0,,2012-07-01,T. Braun
+BOR-1162,Yaremko Meadowbrook Ranch Ltd.,Saskatchewan,Livestock,20,,284.0,2017-07-01,C. Friesen
+BOR-1163,Baumann Coulee AgriBusiness Ltd.,Saskatchewan,Mixed Farming,6,1045.0,246.0,2024-07-01,M. Reimer
+BOR-1164,Larsen Golden Field Farms Ltd.,Manitoba,Mixed Farming,22,992.0,237.0,2017-07-01,S. Kowalski
+BOR-1165,Halvorsen Rimrock Grain Farms Ltd.,Alberta,Grain & Oilseed,7,226.0,,2022-07-01,D. Sorensen
+BOR-1166,Petrov Harvest Moon Livestock Co.,Alberta,Livestock,12,,327.0,2016-07-01,A. Dubois
+BOR-1167,Yaremko Long Grass Farms Ltd.,Saskatchewan,Mixed Farming,19,808.0,151.0,2015-07-01,K. Lund
+BOR-1168,Giesbrecht Elk Valley Farms Ltd.,Manitoba,Grain & Oilseed,19,522.0,,2022-07-01,P. Anholt
+BOR-1169,Yaremko Wheatland Farms Ltd.,Manitoba,Grain & Oilseed,13,1139.0,,2016-07-01,C. Friesen
+BOR-1170,Peters Rimrock Farms Ltd.,Saskatchewan,Mixed Farming,7,1929.0,305.0,2024-07-01,P. Anholt
+BOR-1171,Kessler Long Grass Grain Co.,Saskatchewan,Grain & Oilseed,19,1997.0,,2015-07-01,M. Reimer
+BOR-1172,Radke Harvest Moon AgriBusiness Ltd.,Saskatchewan,Mixed Farming,4,865.0,164.0,2025-07-01,M. Reimer
+BOR-1173,Fischer Northern Grain Co.,Saskatchewan,Grain & Oilseed,43,1839.0,,2024-07-01,P. Anholt
+BOR-1174,Anholt Silver Birch Family Farm,Alberta,Mixed Farming,16,2896.0,213.0,2019-07-01,T. Braun
+BOR-1175,Janzen Harvest Moon Farms Ltd.,Saskatchewan,Grain & Oilseed,25,1190.0,,2021-07-01,A. Dubois
+BOR-1176,Braun Northern Farms Ltd.,Alberta,Mixed Farming,13,4255.0,118.0,2021-07-01,R. Yaremko
+BOR-1177,Marchand Golden Field Dairy Ltd.,Alberta,Dairy,16,,386.0,2019-07-01,C. Friesen
+BOR-1178,Toews Big Sky Livestock Co.,Alberta,Livestock,31,,272.0,2012-07-01,T. Braun
+BOR-1179,Sorensen Sunrise Livestock Co.,Saskatchewan,Livestock,25,,442.0,2012-07-01,R. Yaremko
+BOR-1180,Fischer Cypress Hills Grain Co.,Saskatchewan,Grain & Oilseed,15,1408.0,,2015-07-01,J. Halvorsen
+BOR-1181,Fischer Bluestem Livestock Co.,Saskatchewan,Livestock,14,,53.0,2017-07-01,D. Sorensen
+BOR-1182,Baumann Whitecap Farms Ltd.,Manitoba,Mixed Farming,21,1287.0,404.0,2015-07-01,A. Dubois
+BOR-1183,Braun Wheatland Family Farm,Manitoba,Mixed Farming,11,2816.0,132.0,2020-07-01,R. Yaremko
+BOR-1184,Janzen Golden Field Livestock Co.,Saskatchewan,Livestock,19,,529.0,2019-07-01,T. Braun
+BOR-1185,Kristoff Harvest Moon Farms Ltd.,Saskatchewan,Grain & Oilseed,4,796.0,,2024-07-01,D. Sorensen
+BOR-1186,Braun Qu'Appelle Valley Grain Farms Ltd.,Alberta,Grain & Oilseed,23,3094.0,,2013-07-01,J. Halvorsen
+BOR-1187,Iverson Golden Field Grain Co.,Saskatchewan,Grain & Oilseed,21,1520.0,,2013-07-01,S. Kowalski
+BOR-1188,Fischer Elk Valley Dairy Ltd.,Saskatchewan,Dairy,5,,616.0,2021-07-01,P. Anholt
+BOR-1189,Larsen Bluestem Dairy Farm Ltd.,Saskatchewan,Dairy,5,,270.0,2024-07-01,K. Lund
+BOR-1190,Marchand Elk Valley Cattle Co.,Saskatchewan,Livestock,15,,76.0,2022-07-01,J. Halvorsen
+BOR-1191,Fischer Elk Valley Farms Ltd.,Manitoba,Grain & Oilseed,17,1767.0,,2018-07-01,D. Sorensen
+BOR-1192,Fischer Red River AgriBusiness Ltd.,Manitoba,Mixed Farming,2,160.0,424.0,2025-07-01,K. Lund
+BOR-1193,Toews Big Sky Family Farm,Alberta,Mixed Farming,17,862.0,364.0,2012-07-01,D. Sorensen
+BOR-1194,Kowalski Wheatland AgriBusiness Ltd.,Manitoba,Mixed Farming,18,1109.0,97.0,2013-07-01,J. Halvorsen
+BOR-1195,Klassen Cypress Hills Farms Ltd.,Saskatchewan,Grain & Oilseed,10,1793.0,,2021-07-01,T. Braun
+BOR-1196,Braun Harvest Moon Ranch Ltd.,Manitoba,Livestock,9,,163.0,2021-07-01,K. Lund
+BOR-1197,Lund Northern Dairy Farm Ltd.,Saskatchewan,Dairy,20,,377.0,2022-07-01,T. Braun
+BOR-1198,Braun Coulee Ranch Ltd.,Saskatchewan,Livestock,5,,553.0,2022-07-01,S. Kowalski
+BOR-1199,Iverson Wheatland Livestock Co.,Saskatchewan,Livestock,15,,139.0,2014-07-01,S. Kowalski
+BOR-1200,Martens Elk Valley Grain Farms Ltd.,Manitoba,Grain & Oilseed,22,1637.0,,2014-07-01,D. Sorensen
+BOR-1201,Martens Big Sky Ranch Ltd.,Saskatchewan,Livestock,7,,110.0,2024-07-01,J. Halvorsen
+BOR-1202,Schmidt Sunrise Farms Ltd.,Alberta,Mixed Farming,19,1122.0,317.0,2024-07-01,D. Sorensen
+BOR-1203,Neufeld Twin Creek Family Farm,Alberta,Mixed Farming,24,1273.0,174.0,2013-07-01,S. Kowalski
+BOR-1204,Friesen Cypress Hills Grain Co.,Saskatchewan,Grain & Oilseed,10,2908.0,,2024-07-01,S. Kowalski
+BOR-1205,Friesen Golden Field Family Farm,Saskatchewan,Mixed Farming,23,2681.0,453.0,2019-07-01,S. Kowalski
+BOR-1206,Petrov Elk Valley Farms Ltd.,Manitoba,Mixed Farming,9,4279.0,300.0,2019-07-01,P. Anholt
+BOR-1207,O'Neil Prairie AgriBusiness Ltd.,Saskatchewan,Mixed Farming,5,1793.0,234.0,2025-07-01,D. Sorensen
+BOR-1208,Kessler Wheatland Grain Farms Ltd.,Saskatchewan,Grain & Oilseed,19,1634.0,,2020-07-01,D. Sorensen
+BOR-1209,Toews Harvest Moon Family Farm,Alberta,Mixed Farming,27,2706.0,140.0,2012-07-01,D. Sorensen
+BOR-1210,Martens Northern Dairy Farm Ltd.,Saskatchewan,Dairy,15,,116.0,2013-07-01,K. Lund
+BOR-1211,Sorensen Rolling Hills Grain Co.,Saskatchewan,Grain & Oilseed,23,1800.0,,2022-07-01,C. Friesen
+BOR-1212,Giesbrecht Golden Field Livestock Co.,Saskatchewan,Livestock,18,,732.0,2025-07-01,M. Reimer
+BOR-1213,Sorensen Long Grass Grain Farms Ltd.,Manitoba,Grain & Oilseed,21,1386.0,,2014-07-01,R. Yaremko
+BOR-1214,Novak Twin Creek Farms Ltd.,Alberta,Grain & Oilseed,58,1095.0,,2020-07-01,P. Anholt
+BOR-1215,Schmidt Meadowbrook Ranch Ltd.,Saskatchewan,Livestock,11,,274.0,2018-07-01,A. Dubois
+BOR-1216,Braun Sunrise Grain Farms Ltd.,Alberta,Grain & Oilseed,24,2458.0,,2022-07-01,T. Braun
+BOR-1217,Kessler Silver Birch Farms Ltd.,Manitoba,Mixed Farming,9,736.0,247.0,2022-07-01,K. Lund
+BOR-1218,Halvorsen Red River Grain Co.,Alberta,Grain & Oilseed,5,1751.0,,2021-07-01,P. Anholt
+BOR-1219,Yaremko Silver Birch Cattle Co.,Saskatchewan,Livestock,10,,266.0,2025-07-01,K. Lund
+BOR-1220,O'Neil Qu'Appelle Valley Grain Co.,Saskatchewan,Grain & Oilseed,16,3152.0,,2021-07-01,R. Yaremko
+BOR-1221,Friesen Rolling Hills Farms Ltd.,Manitoba,Grain & Oilseed,29,4389.0,,2015-07-01,J. Halvorsen
+BOR-1222,Reimer Harvest Moon Dairy Ltd.,Alberta,Dairy,19,,141.0,2019-07-01,P. Anholt
+BOR-1223,Novak Harvest Moon Farms Ltd.,Alberta,Grain & Oilseed,23,694.0,,2016-07-01,S. Kowalski
+BOR-1224,Schmidt Silver Birch Farms Ltd.,Manitoba,Mixed Farming,11,2938.0,159.0,2015-07-01,K. Lund
+BOR-1225,Bergen Silver Birch AgriBusiness Ltd.,Alberta,Mixed Farming,25,756.0,278.0,2012-07-01,T. Braun
+BOR-1226,Iverson Coulee Grain Farms Ltd.,Manitoba,Grain & Oilseed,23,2462.0,,2023-07-01,C. Friesen
+BOR-1227,Lund Prairie Grain Co.,Saskatchewan,Grain & Oilseed,28,699.0,,2020-07-01,D. Sorensen
+BOR-1228,Novak Coulee Ranch Ltd.,Alberta,Livestock,21,,297.0,2013-07-01,C. Friesen
+BOR-1229,Voss Qu'Appelle Valley Grain Farms Ltd.,Saskatchewan,Grain & Oilseed,32,2916.0,,2025-07-01,P. Anholt
+BOR-1230,Giesbrecht Golden Field Grain Co.,Saskatchewan,Grain & Oilseed,2,2155.0,,2024-07-01,C. Friesen
+BOR-1231,Lund Red River Farms Ltd.,Manitoba,Grain & Oilseed,21,2315.0,,2024-07-01,C. Friesen
+BOR-1232,Kessler Big Sky Grain Farms Ltd.,Saskatchewan,Grain & Oilseed,33,1745.0,,2019-07-01,J. Halvorsen
+BOR-1233,Reimer Rolling Hills Farms Ltd.,Alberta,Grain & Oilseed,10,1697.0,,2021-07-01,M. Reimer
+BOR-1234,Kessler Assiniboine Grain Farms Ltd.,Manitoba,Grain & Oilseed,36,339.0,,2024-07-01,S. Kowalski
+BOR-1235,Anholt Big Sky Grain Farms Ltd.,Saskatchewan,Grain & Oilseed,26,1694.0,,2022-07-01,P. Anholt
+BOR-1236,Toews Silver Birch Cattle Co.,Saskatchewan,Livestock,37,,121.0,2021-07-01,M. Reimer
+BOR-1237,Kristoff Long Grass Grain Co.,Saskatchewan,Grain & Oilseed,11,1492.0,,2017-07-01,M. Reimer
+BOR-1238,Dubois Golden Field Dairy Farm Ltd.,Manitoba,Dairy,18,,201.0,2015-07-01,C. Friesen
+BOR-1239,Anholt Golden Field Family Farm,Alberta,Mixed Farming,25,373.0,69.0,2015-07-01,P. Anholt
+BOR-1240,Lund Coulee Farms Ltd.,Alberta,Grain & Oilseed,24,2995.0,,2017-07-01,A. Dubois
+BOR-1241,Martens Rimrock Grain Co.,Saskatchewan,Grain & Oilseed,10,481.0,,2019-07-01,C. Friesen
+BOR-1242,Enns Qu'Appelle Valley Grain Co.,Alberta,Grain & Oilseed,3,3953.0,,2024-07-01,R. Yaremko
+BOR-1243,Loewen Stonebridge Grain Co.,Saskatchewan,Grain & Oilseed,41,3068.0,,2018-07-01,C. Friesen
+BOR-1244,Iverson Stonebridge Grain Co.,Manitoba,Grain & Oilseed,10,1599.0,,2024-07-01,J. Halvorsen
+BOR-1245,Toews Harvest Moon Farms Ltd.,Alberta,Grain & Oilseed,14,2684.0,,2019-07-01,P. Anholt
+BOR-1246,Schmidt Golden Field Family Farm,Manitoba,Mixed Farming,19,420.0,98.0,2015-07-01,T. Braun
+BOR-1247,Martens Wheatland Livestock Co.,Saskatchewan,Livestock,34,,242.0,2023-07-01,T. Braun
+BOR-1248,Novak Meadowbrook Family Farm,Manitoba,Mixed Farming,4,1452.0,132.0,2023-07-01,K. Lund
+BOR-1249,Braun Big Sky Ranch Ltd.,Saskatchewan,Livestock,34,,275.0,2019-07-01,J. Halvorsen
+BOR-1250,Neufeld Red River Grain Co.,Saskatchewan,Grain & Oilseed,48,1214.0,,2014-07-01,D. Sorensen
+BOR-1251,Peters Prairie Cattle Co.,Saskatchewan,Livestock,28,,296.0,2016-07-01,S. Kowalski
+BOR-1252,Iverson Golden Field Dairy Ltd.,Saskatchewan,Dairy,19,,518.0,2016-07-01,P. Anholt
+BOR-1253,Harder Northern Farms Ltd.,Alberta,Mixed Farming,16,4619.0,229.0,2012-07-01,C. Friesen
+BOR-1254,Kessler Harvest Moon Farms Ltd.,Alberta,Grain & Oilseed,19,964.0,,2013-07-01,M. Reimer
+BOR-1255,Novikov Stonebridge Family Farm,Saskatchewan,Mixed Farming,15,1685.0,197.0,2019-07-01,C. Friesen
+BOR-1256,Petrov Stonebridge AgriBusiness Ltd.,Saskatchewan,Mixed Farming,4,323.0,518.0,2025-07-01,A. Dubois
+BOR-1257,Voss Meadowbrook Family Farm,Manitoba,Mixed Farming,10,2242.0,315.0,2016-07-01,D. Sorensen
+BOR-1258,Kowalski Qu'Appelle Valley Dairy Ltd.,Manitoba,Dairy,11,,503.0,2019-07-01,A. Dubois
+BOR-1259,Schmidt Harvest Moon Ranch Ltd.,Alberta,Livestock,19,,288.0,2021-07-01,M. Reimer
+BOR-1260,Enns Coulee AgriBusiness Ltd.,Saskatchewan,Mixed Farming,11,392.0,168.0,2023-07-01,S. Kowalski
+BOR-1261,Fischer Sunrise Grain Co.,Saskatchewan,Grain & Oilseed,16,669.0,,2013-07-01,S. Kowalski
+BOR-1262,Marchand Silver Birch Livestock Co.,Saskatchewan,Livestock,18,,575.0,2014-07-01,C. Friesen
+BOR-1263,Kowalski Red River Grain Co.,Manitoba,Grain & Oilseed,34,1002.0,,2021-07-01,T. Braun
+BOR-1264,Baumann Meadowbrook AgriBusiness Ltd.,Saskatchewan,Mixed Farming,32,2538.0,337.0,2011-07-01,S. Kowalski
+BOR-1265,Baumann Rimrock Ranch Ltd.,Alberta,Livestock,13,,791.0,2023-07-01,S. Kowalski
+BOR-1266,Petrov Bluestem Grain Co.,Manitoba,Grain & Oilseed,13,1549.0,,2020-07-01,R. Yaremko
+BOR-1267,O'Neil Assiniboine Farms Ltd.,Saskatchewan,Grain & Oilseed,19,1460.0,,2014-07-01,P. Anholt
+BOR-1268,Schmidt Elk Valley Grain Co.,Saskatchewan,Grain & Oilseed,16,2331.0,,2022-07-01,P. Anholt
+BOR-1269,Peters Bluestem Family Farm,Saskatchewan,Mixed Farming,7,457.0,483.0,2020-07-01,R. Yaremko
+BOR-1270,Enns Rimrock AgriBusiness Ltd.,Manitoba,Mixed Farming,29,2185.0,389.0,2017-07-01,R. Yaremko
+BOR-1271,Kowalski Cypress Hills Grain Farms Ltd.,Manitoba,Grain & Oilseed,2,1615.0,,2024-07-01,M. Reimer
+BOR-1272,Bergen Red River Dairy Ltd.,Saskatchewan,Dairy,19,,113.0,2018-07-01,M. Reimer
+BOR-1273,Petrov Qu'Appelle Valley Dairy Ltd.,Saskatchewan,Dairy,10,,625.0,2020-07-01,T. Braun
+BOR-1274,Peters Bluestem Livestock Co.,Manitoba,Livestock,16,,508.0,2015-07-01,T. Braun
+BOR-1275,Anholt Red River Farms Ltd.,Saskatchewan,Grain & Oilseed,30,2657.0,,2025-07-01,J. Halvorsen
+BOR-1276,Dueck Elk Valley Grain Farms Ltd.,Alberta,Grain & Oilseed,25,2657.0,,2019-07-01,C. Friesen
+BOR-1277,Neufeld Meadowbrook Ranch Ltd.,Alberta,Livestock,12,,382.0,2024-07-01,A. Dubois
+BOR-1278,Neufeld Cypress Hills Dairy Farm Ltd.,Alberta,Dairy,56,,178.0,2021-07-01,R. Yaremko
+BOR-1279,Radke Rimrock Ranch Ltd.,Saskatchewan,Livestock,22,,231.0,2015-07-01,S. Kowalski
+BOR-1280,O'Neil Stonebridge Family Farm,Saskatchewan,Mixed Farming,31,1193.0,204.0,2016-07-01,R. Yaremko
+BOR-1281,Dubois Cypress Hills Grain Co.,Saskatchewan,Grain & Oilseed,11,391.0,,2017-07-01,K. Lund
+BOR-1282,Reimer Coulee Grain Farms Ltd.,Saskatchewan,Grain & Oilseed,18,598.0,,2018-07-01,S. Kowalski
+BOR-1283,Kessler Sunrise Farms Ltd.,Saskatchewan,Grain & Oilseed,10,4516.0,,2024-07-01,M. Reimer
+BOR-1284,Iverson Long Grass Grain Co.,Manitoba,Grain & Oilseed,10,1621.0,,2023-07-01,S. Kowalski
+BOR-1285,Reimer Silver Birch Dairy Ltd.,Saskatchewan,Dairy,24,,116.0,2020-07-01,R. Yaremko
+BOR-1286,Kessler Twin Creek Cattle Co.,Alberta,Livestock,34,,231.0,2022-07-01,M. Reimer
+BOR-1287,Sorensen Rolling Hills Dairy Ltd.,Alberta,Dairy,60,,323.0,2018-07-01,R. Yaremko
+BOR-1288,Toews Bluestem Cattle Co.,Alberta,Livestock,5,,38.0,2025-07-01,M. Reimer
+BOR-1289,Wiebe Northern Grain Farms Ltd.,Saskatchewan,Grain & Oilseed,26,2075.0,,2016-07-01,C. Friesen
+BOR-1290,Fischer Bluestem Cattle Co.,Manitoba,Livestock,17,,157.0,2023-07-01,K. Lund
+BOR-1291,Neufeld Stonebridge Grain Co.,Alberta,Grain & Oilseed,27,3058.0,,2023-07-01,R. Yaremko
+BOR-1292,Harder Big Sky Family Farm,Saskatchewan,Mixed Farming,24,4608.0,38.0,2013-07-01,P. Anholt
+BOR-1293,Kowalski Sunrise Grain Farms Ltd.,Saskatchewan,Grain & Oilseed,12,1135.0,,2023-07-01,K. Lund
+BOR-1294,Bergen Sunrise Cattle Co.,Alberta,Livestock,12,,458.0,2018-07-01,K. Lund
+BOR-1295,Anholt Coulee Farms Ltd.,Alberta,Grain & Oilseed,12,1759.0,,2022-07-01,J. Halvorsen
+BOR-1296,Kristoff Silver Birch Dairy Ltd.,Alberta,Dairy,31,,368.0,2015-07-01,S. Kowalski
+BOR-1297,Iverson Twin Creek Ranch Ltd.,Alberta,Livestock,19,,97.0,2013-07-01,C. Friesen
+BOR-1298,Iverson Meadowbrook Grain Farms Ltd.,Saskatchewan,Grain & Oilseed,12,1699.0,,2014-07-01,R. Yaremko
+BOR-1299,Whitfield Rolling Hills Family Farm,Manitoba,Mixed Farming,11,5499.0,546.0,2018-07-01,D. Sorensen
+BOR-1300,Yaremko Elk Valley Ranch Ltd.,Alberta,Livestock,38,,506.0,2023-07-01,M. Reimer
+BOR-1301,Petrov Stonebridge Grain Co.,Saskatchewan,Grain & Oilseed,9,1402.0,,2025-07-01,T. Braun
+BOR-1302,Whitmore Rimrock Family Farm,Alberta,Mixed Farming,5,1461.0,780.0,2024-07-01,S. Kowalski
+BOR-1303,Janzen Sunrise Grain Co.,Saskatchewan,Grain & Oilseed,30,1228.0,,2020-07-01,C. Friesen
+BOR-1304,O'Neil Golden Field Grain Farms Ltd.,Alberta,Grain & Oilseed,18,654.0,,2020-07-01,P. Anholt
+BOR-1305,Dueck Qu'Appelle Valley Grain Co.,Alberta,Grain & Oilseed,30,1633.0,,2021-07-01,S. Kowalski
+BOR-1306,Novak Twin Creek Dairy Ltd.,Alberta,Dairy,20,,318.0,2015-07-01,C. Friesen
+BOR-1307,Kessler Silver Birch Grain Co.,Saskatchewan,Grain & Oilseed,17,1305.0,,2015-07-01,D. Sorensen
+BOR-1308,Baumann Assiniboine Dairy Ltd.,Saskatchewan,Dairy,20,,240.0,2013-07-01,R. Yaremko
+BOR-1309,Novak Coulee Family Farm,Saskatchewan,Mixed Farming,7,973.0,65.0,2024-07-01,C. Friesen
+BOR-1310,Bergen Golden Field Farms Ltd.,Saskatchewan,Grain & Oilseed,14,769.0,,2025-07-01,D. Sorensen
+BOR-1311,Reimer Meadowbrook Dairy Farm Ltd.,Alberta,Dairy,11,,492.0,2017-07-01,K. Lund
+BOR-1312,Kessler Prairie Dairy Farm Ltd.,Manitoba,Dairy,30,,246.0,2012-07-01,P. Anholt
+BOR-1313,O'Neil Long Grass Grain Farms Ltd.,Saskatchewan,Grain & Oilseed,38,2655.0,,2023-07-01,M. Reimer
+BOR-1314,Larsen Cypress Hills Dairy Ltd.,Alberta,Dairy,25,,277.0,2020-07-01,R. Yaremko
+BOR-1315,Dueck Big Sky Dairy Ltd.,Manitoba,Dairy,12,,170.0,2023-07-01,J. Halvorsen
+BOR-1316,Martens Red River AgriBusiness Ltd.,Alberta,Mixed Farming,60,2018.0,298.0,2023-07-01,J. Halvorsen
+BOR-1317,Dueck Long Grass AgriBusiness Ltd.,Saskatchewan,Mixed Farming,22,1032.0,203.0,2020-07-01,T. Braun
+BOR-1318,Petrov Silver Birch Farms Ltd.,Saskatchewan,Mixed Farming,12,959.0,128.0,2021-07-01,C. Friesen
+BOR-1319,Novikov Silver Birch Family Farm,Manitoba,Mixed Farming,6,2487.0,122.0,2023-07-01,A. Dubois
+BOR-1320,Whitmore Golden Field Grain Farms Ltd.,Alberta,Grain & Oilseed,12,652.0,,2017-07-01,T. Braun
+BOR-1321,Fischer Stonebridge Farms Ltd.,Manitoba,Grain & Oilseed,8,1326.0,,2020-07-01,P. Anholt
+BOR-1322,Neufeld Northern Grain Co.,Alberta,Grain & Oilseed,23,3058.0,,2016-07-01,C. Friesen
+BOR-1323,Whitfield Northern Grain Co.,Saskatchewan,Grain & Oilseed,23,5350.0,,2015-07-01,R. Yaremko
+BOR-1324,Peters Sunrise Ranch Ltd.,Alberta,Livestock,13,,230.0,2025-07-01,J. Halvorsen
+BOR-1325,Friesen Sunrise Grain Co.,Saskatchewan,Grain & Oilseed,9,2379.0,,2018-07-01,D. Sorensen
+BOR-1326,Peters Northern Farms Ltd.,Saskatchewan,Mixed Farming,20,2300.0,136.0,2024-07-01,A. Dubois
+BOR-1327,Enns Red River Ranch Ltd.,Manitoba,Livestock,29,,156.0,2015-07-01,J. Halvorsen
+BOR-1328,Wiebe Silver Birch AgriBusiness Ltd.,Alberta,Mixed Farming,38,2187.0,234.0,2018-07-01,C. Friesen
+BOR-1329,Janzen Rimrock Grain Farms Ltd.,Alberta,Grain & Oilseed,5,319.0,,2025-07-01,S. Kowalski
+BOR-1330,Novak Cypress Hills Dairy Ltd.,Alberta,Dairy,12,,90.0,2022-07-01,K. Lund
+BOR-1331,Kessler Coulee Grain Co.,Alberta,Grain & Oilseed,24,2246.0,,2012-07-01,C. Friesen
+BOR-1332,Kristoff Sunrise Farms Ltd.,Saskatchewan,Mixed Farming,29,2340.0,359.0,2011-07-01,D. Sorensen
+BOR-1333,Kristoff Rimrock Grain Farms Ltd.,Saskatchewan,Grain & Oilseed,30,1114.0,,2016-07-01,J. Halvorsen
+BOR-1334,Lund Cypress Hills Dairy Ltd.,Saskatchewan,Dairy,28,,336.0,2024-07-01,C. Friesen
+BOR-1335,Wiebe Qu'Appelle Valley Ranch Ltd.,Saskatchewan,Livestock,14,,205.0,2018-07-01,R. Yaremko
+BOR-1336,Friesen Golden Field Farms Ltd.,Alberta,Mixed Farming,26,1498.0,267.0,2013-07-01,K. Lund
+BOR-1337,Kowalski Qu'Appelle Valley Family Farm,Manitoba,Mixed Farming,15,3443.0,119.0,2019-07-01,A. Dubois
+BOR-1338,Dueck Wheatland Grain Farms Ltd.,Alberta,Grain & Oilseed,8,1449.0,,2025-07-01,K. Lund
+BOR-1339,Dueck Whitecap Dairy Ltd.,Manitoba,Dairy,18,,201.0,2023-07-01,D. Sorensen
+BOR-1340,O'Neil Rolling Hills Family Farm,Saskatchewan,Mixed Farming,17,1708.0,76.0,2014-07-01,T. Braun
+BOR-1341,Braun Whitecap Grain Co.,Saskatchewan,Grain & Oilseed,24,414.0,,2015-07-01,T. Braun
+BOR-1342,Kessler Qu'Appelle Valley Grain Farms Ltd.,Alberta,Grain & Oilseed,8,4181.0,,2019-07-01,K. Lund
+BOR-1343,Lund Big Sky Family Farm,Saskatchewan,Mixed Farming,19,1803.0,407.0,2022-07-01,P. Anholt
+BOR-1344,Neufeld Qu'Appelle Valley Dairy Farm Ltd.,Saskatchewan,Dairy,60,,300.0,2017-07-01,R. Yaremko
+BOR-1345,Neufeld Rolling Hills AgriBusiness Ltd.,Manitoba,Mixed Farming,19,1129.0,200.0,2013-07-01,M. Reimer
+BOR-1346,Martens Rolling Hills Cattle Co.,Saskatchewan,Livestock,15,,414.0,2024-07-01,D. Sorensen
+BOR-1347,Whitmore Silver Birch Dairy Ltd.,Saskatchewan,Dairy,36,,126.0,2013-07-01,M. Reimer
+BOR-1348,Reimer Bluestem Grain Co.,Manitoba,Grain & Oilseed,23,3618.0,,2018-07-01,T. Braun
+BOR-1349,Peters Silver Birch Ranch Ltd.,Saskatchewan,Livestock,24,,42.0,2017-07-01,D. Sorensen
+BOR-1350,Giesbrecht Wheatland Farms Ltd.,Alberta,Mixed Farming,33,3153.0,281.0,2011-07-01,D. Sorensen
+BOR-1351,Reimer Elk Valley Grain Co.,Saskatchewan,Grain & Oilseed,35,3149.0,,2015-07-01,P. Anholt
+BOR-1352,Iverson Stonebridge Dairy Ltd.,Saskatchewan,Dairy,19,,214.0,2013-07-01,T. Braun
+BOR-1353,Wiebe Meadowbrook Grain Farms Ltd.,Manitoba,Grain & Oilseed,30,2140.0,,2014-07-01,C. Friesen
+BOR-1354,Harder Assiniboine Ranch Ltd.,Saskatchewan,Livestock,15,,552.0,2016-07-01,M. Reimer
+BOR-1355,Loewen Elk Valley Family Farm,Alberta,Mixed Farming,33,2283.0,405.0,2015-07-01,P. Anholt
+BOR-1356,Yaremko Whitecap Cattle Co.,Alberta,Livestock,22,,561.0,2023-07-01,M. Reimer
+BOR-1357,Braun Golden Field Livestock Co.,Saskatchewan,Livestock,6,,204.0,2021-07-01,P. Anholt
+BOR-1358,Bergen Cypress Hills Farms Ltd.,Saskatchewan,Grain & Oilseed,8,4191.0,,2023-07-01,A. Dubois
+BOR-1359,Dueck Silver Birch Farms Ltd.,Saskatchewan,Grain & Oilseed,22,1685.0,,2024-07-01,A. Dubois
+BOR-1360,Larsen Coulee Dairy Farm Ltd.,Manitoba,Dairy,25,,231.0,2020-07-01,M. Reimer
+BOR-1361,Bergen Bluestem Farms Ltd.,Alberta,Grain & Oilseed,17,4433.0,,2014-07-01,C. Friesen
+BOR-1362,Halvorsen Assiniboine Grain Co.,Saskatchewan,Grain & Oilseed,35,637.0,,2017-07-01,S. Kowalski
+BOR-1363,Marchand Northern Cattle Co.,Saskatchewan,Livestock,17,,144.0,2017-07-01,T. Braun
+BOR-1364,Whitmore Big Sky Dairy Farm Ltd.,Alberta,Dairy,21,,159.0,2022-07-01,K. Lund
+BOR-1365,Anholt Assiniboine AgriBusiness Ltd.,Alberta,Mixed Farming,32,2625.0,156.0,2013-07-01,R. Yaremko
+BOR-1366,Baumann Whitecap AgriBusiness Ltd.,Saskatchewan,Mixed Farming,8,1639.0,201.0,2021-07-01,P. Anholt
+BOR-1367,Larsen Meadowbrook Family Farm,Saskatchewan,Mixed Farming,20,2614.0,294.0,2015-07-01,J. Halvorsen
+BOR-1368,Kowalski Assiniboine Farms Ltd.,Saskatchewan,Mixed Farming,14,538.0,111.0,2015-07-01,R. Yaremko
+BOR-1369,Petrov Twin Creek Farms Ltd.,Saskatchewan,Mixed Farming,8,842.0,152.0,2018-07-01,A. Dubois
+BOR-1370,Kessler Coulee AgriBusiness Ltd.,Alberta,Mixed Farming,21,6282.0,361.0,2018-07-01,P. Anholt
+BOR-1371,Schmidt Stonebridge Family Farm,Saskatchewan,Mixed Farming,16,730.0,131.0,2022-07-01,J. Halvorsen
+BOR-1372,Larsen Northern Grain Co.,Saskatchewan,Grain & Oilseed,17,2543.0,,2018-07-01,P. Anholt
+BOR-1373,Baumann Twin Creek Grain Farms Ltd.,Saskatchewan,Grain & Oilseed,23,1782.0,,2025-07-01,A. Dubois
+BOR-1374,Janzen Wheatland Ranch Ltd.,Saskatchewan,Livestock,25,,147.0,2011-07-01,T. Braun
+BOR-1375,Dubois Big Sky Livestock Co.,Alberta,Livestock,37,,176.0,2025-07-01,C. Friesen
+BOR-1376,Harder Whitecap Livestock Co.,Alberta,Livestock,6,,486.0,2025-07-01,T. Braun
+BOR-1377,Peters Cypress Hills Dairy Ltd.,Saskatchewan,Dairy,16,,303.0,2016-07-01,J. Halvorsen
+BOR-1378,Schmidt Harvest Moon Grain Co.,Saskatchewan,Grain & Oilseed,31,2916.0,,2020-07-01,C. Friesen
+BOR-1379,Giesbrecht Cypress Hills Grain Farms Ltd.,Alberta,Grain & Oilseed,10,2268.0,,2022-07-01,M. Reimer
+BOR-1380,Marchand Twin Creek Grain Farms Ltd.,Saskatchewan,Grain & Oilseed,15,1261.0,,2023-07-01,D. Sorensen

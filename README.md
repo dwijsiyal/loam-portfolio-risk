@@ -42,7 +42,7 @@ The finished `.pbix` file isn't committed here (Power BI files are large binarie
 
 **Data & Definitions** — the dashboard's glossary, embedded directly in the file so "risk tier" and "delinquency bucket" mean the same thing to everyone looking at it.
 
-![Data and Definitions](<img width="1918" height="1078" alt="Screenshot 2026-09-05 185557" src="https://github.com/user-attachments/assets/e05dde59-ebd7-4f55-99f0-cdeed1745f8b" />)
+<img width="1918" height="1078" alt="Screenshot 2026-09-05 185557" src="https://github.com/user-attachments/assets/e05dde59-ebd7-4f55-99f0-cdeed1745f8b" />
 
 **Loan Detail (drillthrough)** — right-click any loan on the Watchlist to see its full attributes and 24-month balance history.
 

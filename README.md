@@ -30,23 +30,23 @@ The finished `.pbix` file isn't committed here (Power BI files are large binarie
 
 **Portfolio Overview** — executive summary: total exposure, delinquency rate, risk tier mix, and sector concentration at a glance.
 
-![Portfolio Overview](07_portfolio_package/screenshots/01_portfolio_overview.png)
+<img width="1919" height="1079" alt="Screenshot 2026-09-05 185523" src="https://github.com/user-attachments/assets/237c7f33-d658-4ba4-b1e6-e4f023bd02a3" />
 
 **Regional & Sector Analysis** — a region × sector heat map that surfaces exactly where concentration and risk severity intersect. This view is what caught a real finding in the synthetic data: Saskatchewan/Livestock sits at 17.82% delinquency, well above every other segment — a specific, actionable insight a flat spreadsheet report would have buried.
 
-![Regional and Sector Analysis](07_portfolio_package/screenshots/02_regional_sector_analysis.png)
+<img width="1919" height="1079" alt="Screenshot 2026-09-05 190443" src="https://github.com/user-attachments/assets/07bf9dd4-14e6-4d8f-bafa-bfaef70ed8c2" />
 
 **Watchlist & Loan Detail** — loans that moved into a worse risk tier or delinquency bucket since the prior month, surfaced for follow-up.
 
-![Watchlist and Loan Detail](07_portfolio_package/screenshots/03_watchlist_loan_detail.png)
+<img width="1919" height="1079" alt="Screenshot 2026-09-05 185545" src="https://github.com/user-attachments/assets/f8d7fceb-fb7a-407a-a27c-76416bfc4041" />
 
 **Data & Definitions** — the dashboard's glossary, embedded directly in the file so "risk tier" and "delinquency bucket" mean the same thing to everyone looking at it.
 
-![Data and Definitions](07_portfolio_package/screenshots/04_data_definitions.png)
+![Data and Definitions](<img width="1918" height="1078" alt="Screenshot 2026-09-05 185557" src="https://github.com/user-attachments/assets/e05dde59-ebd7-4f55-99f0-cdeed1745f8b" />)
 
 **Loan Detail (drillthrough)** — right-click any loan on the Watchlist to see its full attributes and 24-month balance history.
 
-![Loan Detail Drillthrough](07_portfolio_package/screenshots/05_loan_detail_drillthrough.png)
+<img width="1919" height="1079" alt="Screenshot 2026-09-05 185629" src="https://github.com/user-attachments/assets/c506adb9-3cc5-4c08-848f-96ca1d340542" />
 
 ## The data model
 
